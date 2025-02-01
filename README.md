@@ -12,8 +12,3 @@ This repository hosts a Jupyter Notebook detailing a machine learning project ai
 
 ## Objective
 The goal of this project is to provide a predictive tool that can assist medical professionals in making informed decisions about heart disease risks based on patient data. The decision tree visualizations offer transparent insights into the model's decision paths, which are crucial for clinical support systems.
-
-## Usage
-To run this notebook:
-1. Ensure you have Jupyter installed or use platforms like Google Colab.
-2. Install necessary Python packages:
